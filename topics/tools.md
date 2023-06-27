@@ -86,6 +86,7 @@
 | --- | --- |
 |[508 Checker](http://www.508checker.com/)|Check a11y with 508 rules|
 |[Access Monitor](http://accessmonitor.acessibilidade.gov.pt/)|Validator|
+|[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[Tenon.io](https://tenon.io/)|EN|
